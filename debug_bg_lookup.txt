@@ -1,0 +1,5 @@
+found=C:\HuayKinMaiMod_portable\assets/bg_custom_เซียนตอง.png
+W=1024
+H=1536
+assetsDir=C:\HuayKinMaiMod_portable\assets
+bgFileParam=bg_custom_เียนตอง.png

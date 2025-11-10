@@ -1,0 +1,10 @@
+﻿Diagnostic run: 2025-11-09 22:10:37Z
+Source stdout: C:\HuayKinMaiMod_portable\php_server_stdout.log
+STDOUT file missing
+\n=== STDERR (php_server_stderr.log) ===\n
+(stderr missing)
+\n---\n
+Source stderr: C:\HuayKinMaiMod_portable\php_server_stderr.log
+STDERR file missing
+\n=== STDOUT (php_server_stdout.log) ===\n
+(stdout missing)

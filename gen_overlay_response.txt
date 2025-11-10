@@ -1,0 +1,21 @@
+<br />
+<b>Warning</b>:  imagettfbbox(): Could not find/open font in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  imagettftext(): Could not find/open font in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>32</b><br />
+<br />
+<b>Warning</b>:  imagettftext(): Could not find/open font in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>32</b><br />
+<br />
+<b>Warning</b>:  imagettftext(): Could not find/open font in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>32</b><br />
+<br />
+<b>Warning</b>:  imagettftext(): Could not find/open font in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>33</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php:29) in <b>C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\gen_overlay.php</b> on line <b>37</b><br />
+saved:C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted/../sample_ref_final_server.png W=1024 H=1536

@@ -1,0 +1,62 @@
+﻿Diagnostic run: 2025-11-09 22:17:38Z
+Bundled php path: C:\HuayKinMaiMod_portable\php\php.exe
+Bundled PHP: NOT FOUND
+\nChecking system 'php' on PATH...
+php on PATH: FOUND -> C:\xampp\php\php.exe
+\nUsing PHP executable: php
+\n--- php -v ---
+PHP 8.2.12 (cli) (built: Oct 24 2023 21:15:15) (ZTS Visual C++ 2019 x64)
+Copyright (c) The PHP Group
+Zend Engine v4.2.12, Copyright (c) Zend Technologies
+\n--- php -m ---
+[PHP Modules]
+bcmath
+bz2
+calendar
+Core
+ctype
+curl
+date
+dom
+exif
+fileinfo
+filter
+ftp
+gettext
+hash
+iconv
+json
+libxml
+mbstring
+mysqli
+mysqlnd
+openssl
+pcre
+PDO
+pdo_mysql
+pdo_pgsql
+pdo_sqlite
+pgsql
+Phar
+random
+readline
+Reflection
+session
+SimpleXML
+SPL
+standard
+tokenizer
+xml
+xmlreader
+xmlwriter
+zlib
+
+[Zend Modules]
+
+\n--- GD presence ---
+\n--- php -l download.php (root) ---
+No syntax errors detected in C:\HuayKinMaiMod_portable\download.php
+\n--- php -l HuayKinMaiMod_Extracted\\download.php ---
+No syntax errors detected in C:\HuayKinMaiMod_portable\HuayKinMaiMod_Extracted\\download.php
+\n--- netstat / listeners for ports 8080-8083 ---
+\nEnd of comprehensive check.

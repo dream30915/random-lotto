@@ -1,0 +1,8 @@
+# Python dependencies for local image generation script
+# Install with: pip install -r tools/requirements_local_ai.txt
+accelerate>=0.30
+transformers>=4.46
+diffusers[torch]>=0.30.0
+safetensors>=0.4
+torch>=2.2
+kandinsky2>=0.0.10

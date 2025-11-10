@@ -1,0 +1,52 @@
+/* Neutral skeleton layout (grayscale) focusing on placement only) */
+:root{--fg:#222;--bg:#f7f7f7;--card:#fff;--line:#dcdcdc;--muted:#666}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;font-family:"Kanit",system-ui,-apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif;background:var(--bg);color:var(--fg)}
+
+.page{max-width:960px;margin:0 auto;padding:20px}
+.topBar{display:flex;gap:8px;justify-content:center;margin:6px 0 12px}
+.socialPill{background:#eaeaea;border:1px solid var(--line);color:var(--fg);padding:8px 12px;border-radius:999px;font-weight:700}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.navRow{display:flex;justify-content:center;gap:8px;margin-bottom:10px}
+.formRow{display:flex;justify-content:center}
+.dateRow{display:flex;gap:10px;justify-content:center;align-items:center;margin:12px 0}
+.dateShow{border:1px solid var(--line);padding:8px 12px;border-radius:999px;background:#f3f3f3}
+.dateBtns{display:flex;gap:8px}
+
+.btn{background:#e6e6e6;color:#222;padding:8px 14px;border-radius:8px;border:1px solid var(--line);cursor:pointer;font-weight:700}
+.btn.primary{background:#dfe7ff;border-color:#cbd7ff}
+.btn.small{padding:6px 10px}
+.btn.ghost{background:#fff}
+.btn.backBtn{background:#efefef}
+
+.select{padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:#fff;color:#222;min-width:240px}
+
+.section{max-width:620px;margin:10px auto}
+.sectionTitle{font-weight:700;color:var(--muted);margin:0 0 6px 6px}
+.inputRow{display:flex;justify-content:center;gap:10px}
+.numInput{padding:10px 10px;border-radius:8px;border:1px solid var(--line);background:#fff;color:#222;text-align:center;font-size:18px;width:120px}
+.leadRow .numInput{width:90px}
+
+.actions{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:12px 0 4px}
+.foot{text-align:center;color:var(--muted);margin-top:10px;font-size:12px}
+
+.logoSmall{height:36px;margin-right:8px}
+.listGrid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+.lotItem{display:flex;flex-direction:column;align-items:center;gap:4px;text-decoration:none;padding:10px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--fg);font-size:14px}
+.lotItem:hover{background:#f0f0f0}
+.flagBox{width:54px;height:34px;background:#ececec;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;font-size:18px;border-radius:4px;overflow:hidden}
+.flagImg{width:100%;height:100%;object-fit:cover}
+.lotName{font-weight:700;text-align:center}
+.lotDate{font-size:11px;color:var(--muted)}
+
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;padding:20px;z-index:1000}
+.modal[hidden]{display:none}
+.modalInner{position:relative;background:#fff;border-radius:12px;border:1px solid var(--line);padding:12px;max-width:min(96vw,1280px)}
+.modal .close{position:absolute;right:10px;top:8px;background:#f0f0f0;border:1px solid var(--line);width:36px;height:32px;border-radius:6px;font-size:20px;cursor:pointer}
+.posterHolder img{max-width:100%;height:auto;border-radius:8px;display:block}
+body.noScroll{overflow:hidden}
+
+.fade{animation:fade .25s ease}
+@keyframes fade{from{opacity:.3;transform:translateY(4px)}to{opacity:1;transform:none}}
