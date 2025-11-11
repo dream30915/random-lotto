@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
     <a href="https://php.net">
         <img
@@ -139,3 +140,6 @@ contribute:
 
 For the list of people who've put work into PHP, please see the
 [PHP credits page](https://php.net/credits.php).
+=======
+# random-lotto
+>>>>>>> bf1b321c37509954bbfa6a540c13cf6cc7d03e65
